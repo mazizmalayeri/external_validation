@@ -1,0 +1,10 @@
+# Patient-level data must never be committed
+*.csv
+data/
+# Outputs
+results/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
